@@ -1,0 +1,2459 @@
+{
+"tblN5JwXYJJZhbr7f": {
+"name": "Formulaire Credit",
+"read": "v_formulaires",
+"write": "formulaires",
+"fields": [
+[
+"fldRzTVqF9AtA5T6f",
+"Numero Dossier",
+"numero_dossier",
+"text",
+1
+],
+[
+"fldrs5YuhCTkytfJi",
+"Agent Crédit",
+"agent_credit",
+"text",
+0
+],
+[
+"fldHjt3HJwjQA1IMh",
+"Agent Epargne",
+"agent_epargne",
+"text",
+0
+],
+[
+"fldEkg3ag3tbkYgPp",
+"Numero Epargne",
+"numero_epargne",
+"text",
+0
+],
+[
+"fldfQEUpkDZZWIcCA",
+"Compte Epargne",
+"id_compte_epargne",
+"link",
+0
+],
+[
+"fldUasX1Em6mUUUUw",
+"Nom",
+"nom",
+"text",
+0
+],
+[
+"fld9cdyrBi2nfQqyK",
+"ID Formulaire",
+"id_formulaire",
+"text",
+1
+],
+[
+"fld1Ber3TwBf3u0Hh",
+"Zone",
+"zone",
+"text",
+0
+],
+[
+"fldzolzVP9IEAlWtd",
+"Lieu de travail",
+"lieu_travail",
+"text",
+0
+],
+[
+"fldUpDereDDSelolz",
+"Type de crédit",
+"type_credit",
+"text",
+0
+],
+[
+"fldAQeiCYTRSuKKEF",
+"Montant du crédit",
+"montant_demande",
+"num",
+0
+],
+[
+"fldhSMw2B6EgPW7EV",
+"Date Soumission",
+"created_at",
+"dt",
+1
+],
+[
+"fldIwvYNPgIn4IQBE",
+"Date Demande",
+"date_demande",
+"date",
+0
+],
+[
+"fldTDSEvMNC5X6ZPE",
+"ID",
+"numero",
+"num",
+1
+],
+[
+"fldzG6ieBRPjIbXYJ",
+"Mention Credit",
+"mention_credit",
+"text",
+0
+],
+[
+"fldOlvPEAR8ir39tH",
+"Liste Document",
+"liste_documents",
+"multi",
+0
+],
+[
+"fld0bKDfArRktyojm",
+"Document de domicile",
+"document_domicile",
+"text",
+0
+],
+[
+"fldY6rNF8q73a97TF",
+"New Contrat Credit",
+"id_contrat",
+"link",
+0
+],
+[
+"fldZ39o7BPw21KnDz",
+"Compte Credit",
+"id_compte_credit",
+"link",
+0
+],
+[
+"fld7rcJsRzVbPafAQ",
+"New Contrat Credit 2",
+"id_contrat",
+"link",
+0
+],
+[
+"fldrZpHcF1kkxwDVX",
+"Dossier Client | Formulaire",
+"id_dossier_client",
+"link",
+0
+],
+[
+"fldWBTLuM1Vwlb00v",
+"Prenom",
+"prenom",
+"text",
+0
+],
+[
+"flddWZxKa61e0KudV",
+"Nom Complet",
+"nom_complet",
+"text",
+1
+],
+[
+"fldqhXjq0NeluDrAK",
+"Type demande",
+"type_demande",
+"text",
+0
+],
+[
+"fldcf5L14zZHarbOg",
+"Contrôle DS",
+"controle_ds",
+"text",
+0
+],
+[
+"fld1fEp3sTJzWeM0d",
+"Étape Analyse",
+"etape",
+"text",
+0
+],
+[
+"fldw3rREAD7k3dwwM",
+"Date remise formulaire",
+"date_remise",
+"date",
+0
+],
+[
+"fldy9yXdXtj0r1Ma9",
+"Date retour réel",
+"date_retour",
+"date",
+0
+],
+[
+"fldh0Afh3rWnaZjXG",
+"AM assigné",
+"am_assigne",
+"text",
+0
+],
+[
+"fld93jyK5kvdG1soT",
+"Date début analyse AM",
+"date_debut_am",
+"date",
+0
+],
+[
+"fldSkT0zygI4orK7a",
+"Décision AM",
+"decision_am",
+"text",
+0
+],
+[
+"fldPAHaGgJ0cPELjP",
+"Date décision AM",
+"date_decision_am",
+"date",
+0
+],
+[
+"fldaapj4M88nWuDUJ",
+"Commentaire AM",
+"commentaire_am",
+"text",
+0
+],
+[
+"fldNjHDz3kcx2FCWk",
+"Date envoi Manager",
+"date_envoi_manager",
+"date",
+0
+],
+[
+"fldNyDMJIysCCucRP",
+"Décision Manager",
+"decision_manager",
+"text",
+0
+],
+[
+"fldVE2MWdFblmNZ35",
+"Date décision Manager",
+"date_decision_manager",
+"date",
+0
+],
+[
+"fldVomfzkBFFCY9ku",
+"Commentaire Manager",
+"commentaire_manager",
+"text",
+0
+],
+[
+"fldU629yd9MtQJavN",
+"Documents reçus",
+"documents_recus",
+"multi",
+0
+],
+[
+"fldzNLXO2D0uLOOdv",
+"Date retour attendue",
+"date_retour_attendue",
+"text",
+1
+],
+[
+"fldejWYk5SwRrjpGr",
+"Deadline AM",
+"deadline_am",
+"text",
+1
+],
+[
+"fldDvANA6pE7ngs9A",
+"Deadline Manager",
+"deadline_manager",
+"text",
+1
+],
+[
+"fldwuZYzsoqArCbwY",
+"Statut Délai",
+"statut_delai",
+"text",
+1
+],
+[
+"fldq3XitNXmJF430c",
+"Respect délais",
+"respect_delais",
+"text",
+1
+],
+[
+"fldc4xMnwJ54i6Qbl",
+"Retour enregistré par",
+"retour_par",
+"text",
+0
+],
+[
+"fldgfOaLfYVWtkmHm",
+"Motif blocage",
+"motif_blocage",
+"text",
+0
+],
+[
+"fldetBlEn592FrTip",
+"Observation blocage",
+"observation_blocage",
+"text",
+0
+],
+[
+"fld9U1t43QWZkMWrb",
+"Date blocage",
+"date_blocage",
+"date",
+0
+],
+[
+"fldazkRZRnFjC3VSr",
+"Statut Suivi",
+"statut_suivi",
+"text",
+1
+],
+[
+"fld2U9MG5YzTPmKsk",
+"Remis par",
+"remis_par",
+"text",
+0
+],
+[
+"flda5cN65Lp18mGWo",
+"Date levée blocage",
+"date_levee_blocage",
+"date",
+0
+],
+[
+"fldqd4rgOdaqOMF3d",
+"Jours utilisés",
+"jours_utilises",
+"num",
+1
+],
+[
+"fldvX1AMEnw1hJrgk",
+"Retard (jours)",
+"retard_jours",
+"num",
+1
+],
+[
+"fldm2mFd1TlzCVKpo",
+"Raison du retard",
+"raison_retard",
+"text",
+0
+],
+[
+"fldjXYgwuTvnmeqot",
+"Conformité OK",
+"conformite_ok",
+"num",
+1
+],
+[
+"fld2zw9Swx94MMxiQ",
+"Conformité (%)",
+"conformite_pct",
+"num",
+1
+],
+[
+"fldVfC76FRKg1SfNE",
+"Taux fonds garantie (%)",
+"taux_fonds_garantie",
+"num",
+0
+],
+[
+"fldtGmEiE9d6Ban1J",
+"Source fonds garantie",
+"source_fonds_garantie",
+"text",
+0
+],
+[
+"fldZ7O22YhcvuaSLw",
+"Montant fonds garantie requis",
+"montant_fdg_requis",
+"num",
+1
+],
+[
+"fld2Z7qUQFB6lEccD",
+"Montant accordé (AM)",
+"montant_accorde",
+"num",
+0
+],
+[
+"fldEfHdxCTwke5wKo",
+"Durée (mois) (AM)",
+"duree_mois",
+"num",
+0
+],
+[
+"fld1XsC5HxDuesx7o",
+"Taux d'intérêt (%) (AM)",
+"taux_interet",
+"num",
+0
+],
+[
+"fldv5rx5Nt8WEZfXl",
+"Paiement par jour (AM)",
+"paiement_jour",
+"num",
+0
+],
+[
+"fldGjWWAje7odbpWG",
+"Nombre de versements (AM)",
+"nombre_versements",
+"num",
+0
+],
+[
+"fld22bdxIw2X7a21F",
+"Montant total à rembourser (AM)",
+"montant_total_am",
+"num",
+1
+],
+[
+"fldoFRg0npmnwUVGU",
+"Score crédit /100",
+"score_credit",
+"num",
+1
+],
+[
+"fldT4zUkcsEzIwiwx",
+"Statut AM",
+"statut_am",
+"text",
+1
+],
+[
+"fldtiZBgntFEEJhgh",
+"Jours AM utilisés",
+"jours_am_utilises",
+"num",
+1
+],
+[
+"fldABYaSW8eV27PLE",
+"Retard AM (jours)",
+"retard_am_jours",
+"num",
+1
+],
+[
+"fldMKcQJ1hGZDu2Kd",
+"Lettre de validation générée le",
+"lettre_generee_le",
+"date",
+0
+],
+[
+"fldoJ1K90OrGyT9OD",
+"Lettre générée par",
+"lettre_generee_par",
+"text",
+0
+],
+[
+"fldBDC835Gfo4tshI",
+"Lettre statut",
+"lettre_statut",
+"text",
+0
+],
+[
+"fldoU81yduXE91N9b",
+"Lettre remise à l'agent le",
+"lettre_remise_le",
+"date",
+0
+],
+[
+"fldWBnYr6Rs99LkVl",
+"Lettre retournée le",
+"lettre_retournee_le",
+"date",
+0
+],
+[
+"fld78EvL4d50JA1BQ",
+"Lettre motif non signature",
+"lettre_motif_non_signature",
+"text",
+0
+],
+[
+"fldstlD4HBtKZZIQp",
+"RDV décaissement",
+"rdv_decaissement",
+"dt",
+0
+],
+[
+"fldrdTfe93rqjKmGz",
+"Lettre RDV générée le",
+"lettre_rdv_le",
+"date",
+0
+],
+[
+"fld5hVJuyqUmK9VpE",
+"Autorisation admin RDV",
+"autorisation_admin_rdv",
+"text",
+0
+],
+[
+"fld4jdcBvWChCUyvX",
+"Documents scannés",
+"documents_scannes",
+"att",
+0
+],
+[
+"fldE1yW4MFofeosB7",
+"Réf. lettre AR",
+"ref_lettre_ar",
+"text",
+0
+],
+[
+"fldZVtoZ3khsevq2q",
+"Lettre AR générée le",
+"lettre_ar_le",
+"date",
+0
+],
+[
+"fldikYDPUIQj2LoUw",
+"Réf. lettre LV",
+"ref_lettre_lv",
+"text",
+0
+],
+[
+"fldvH94CxNNeBAl87",
+"Réf. lettre RD",
+"ref_lettre_rd",
+"text",
+0
+],
+[
+"fldGk3pxOGKzQyTCp",
+"Données lettres",
+"donnees_lettres",
+"text",
+0
+],
+[
+"fld6RAS2B2TXnQi5b",
+"Statut RDV",
+"statut_rdv",
+"text",
+0
+],
+[
+"fld9INEllfex3IA3u",
+"Note RDV",
+"note_rdv",
+"text",
+0
+],
+[
+"fldDcWDd34tX7Oh8z",
+"Finance étape",
+"finance_etape",
+"text",
+0
+],
+[
+"fldRBG5yvLp4vvBKG",
+"Réf. lettre LC",
+"ref_lettre_lc",
+"text",
+0
+],
+[
+"fld3X3UPWZQy6XBKN",
+"Réf. ordre OD",
+"ref_ordre_od",
+"text",
+0
+],
+[
+"fldWDBzoXr3LhboZr",
+"Décision finance",
+"decision_finance",
+"text",
+0
+],
+[
+"fldLzFAuOtqVtrpoJ",
+"Date décaissement prévue",
+"date_decaissement",
+"date",
+0
+],
+[
+"fldANKy6fpeCwysT2",
+"Données finance",
+"donnees_finance",
+"text",
+0
+],
+[
+"fldAu5PNm8sweQ8pL",
+"Documents détail",
+"documents_detail",
+"text",
+0
+],
+[
+"fld9MhqcpHvg46rhy",
+"Réf. contrat CT",
+"ref_contrat_ct",
+"text",
+0
+],
+[
+"fld02majdaYb4ZnHI",
+"Statut contrat",
+"statut_contrat",
+"text",
+0
+],
+[
+"fld5soi9rXsl5fFRf",
+"Données contrat",
+"donnees_contrat",
+"text",
+0
+],
+[
+"fldfrtjoZ8VjgTEP9",
+"Dernier versement AM",
+"dernier_versement",
+"num",
+0
+],
+[
+"fldjccZ9kVOO9TkWZ",
+"Délai ajournement AM",
+"delai_ajournement_am",
+"date",
+0
+],
+[
+"fldxQKlaBnM0yLU7s",
+"Délai retour Manager",
+"delai_retour_manager",
+"date",
+0
+],
+[
+"fldRPO6P3C8wSQ0tt",
+"Compte FDG (correction)",
+"compte_fdg_correction",
+"text",
+0
+],
+[
+"fldQjCwkPdRXaLW6x",
+"Réf. lettre PM",
+"ref_lettre_pm",
+"text",
+0
+],
+[
+"fldBVclpMn6FqlGBt",
+"Délai conformité AM (jours)",
+"delai_conformite_am",
+"num",
+0
+],
+[
+"fld6W94OgmcSJnafi",
+"Date limite conformité",
+"date_limite_conformite",
+"date",
+0
+]
+]
+},
+"tbljABvHisDJWrKgM": {
+"name": "Utilisateurs Suivi",
+"read": "utilisateurs",
+"write": "utilisateurs",
+"fields": [
+[
+"fldwpErNcZ6lGvbLc",
+"Identifiant",
+"identifiant",
+"text",
+0
+],
+[
+"fldMHspRoPqH1fO0o",
+"Nom complet",
+"nom_complet",
+"text",
+1
+],
+[
+"fldE9OMFCWF0cChMv",
+"Rôle",
+"role",
+"text",
+0
+],
+[
+"fldicJ6GlbGSlAKqp",
+"AM",
+"equipe_am",
+"text",
+0
+],
+[
+"fldkz01QUVXXXbJiE",
+"Actif",
+"actif",
+"bool",
+0
+],
+[
+"fldH1ld3ZaMamjx0D",
+"Doit changer mot de passe",
+"doit_changer_mdp",
+"bool",
+0
+],
+[
+"fld9dpUAQYyxOQa6S",
+"Dernière connexion",
+"derniere_connexion",
+"dt",
+0
+]
+]
+},
+"tblknADveJL6MTIVk": {
+"name": "Validation Conformité",
+"read": "v_validations",
+"write": "validations",
+"fields": [
+[
+"fldb86sxNcaWFHF1D",
+"Clé",
+"cle",
+"text",
+1
+],
+[
+"fldKwfUdRloRSPusE",
+"Dossier",
+"id_formulaire",
+"link",
+0
+],
+[
+"fldhAKv6u4k9cWE4Q",
+"N°",
+"num_etape",
+"num",
+0
+],
+[
+"fld46wujWrDmnXs5y",
+"Étape",
+"etape",
+"text",
+1
+],
+[
+"fldJUHq4r3H3NHG1T",
+"Statut",
+"statut",
+"text",
+0
+],
+[
+"fldKbFQzEFh75F94K",
+"Critères vérifiés",
+"criteres_verifies",
+"multi",
+0
+],
+[
+"fldmaJ23T2IukMdIZ",
+"Date vérification",
+"date_verification",
+"date",
+0
+],
+[
+"fldpPG9EGcHlyTJGe",
+"Vérifié par",
+"verifie_par",
+"text",
+0
+],
+[
+"fldAFiHqaMTlmXcYE",
+"Commentaire",
+"commentaire",
+"text",
+0
+],
+[
+"fldsyQbcho4G8lnHw",
+"Montant",
+"montant",
+"num",
+0
+],
+[
+"fldCrINur2ofVjaXh",
+"Téléphone confirmé",
+"telephone_confirme",
+"text",
+0
+]
+]
+},
+"tbloBxMIOCLPm1qV4": {
+"name": "Scoring Crédit",
+"read": "v_scorings",
+"write": "scorings",
+"fields": [
+[
+"fldO5MwRGXUKyd42G",
+"Numéro Dossier",
+"numero_dossier",
+"text",
+0
+],
+[
+"fldZrnudOLslvgf6e",
+"Dossier",
+"id_formulaire",
+"link",
+0
+],
+[
+"fldE9WQB0KFjKZCVa",
+"Personne de référence",
+"personne_reference",
+"text",
+0
+],
+[
+"fld31qcOBGoOc00kW",
+"A1 Activité réelle et vérifiée",
+"a1",
+"text",
+0
+],
+[
+"fldVc7MdLmXoWRdBZ",
+"A1 pts",
+"a1_pts",
+"num",
+0
+],
+[
+"fldiQUXhEJEX6MWla",
+"A2 Produits essentiels",
+"a2",
+"text",
+0
+],
+[
+"fldAXHM06O3nlVuIx",
+"A2 pts",
+"a2_pts",
+"num",
+0
+],
+[
+"fld4FQ4t0HCFKzbin",
+"A3 Lieu d'exploitation stable",
+"a3",
+"text",
+0
+],
+[
+"fldRMiXRI4n58FjNu",
+"A3 pts",
+"a3_pts",
+"num",
+0
+],
+[
+"fldBaUgX3RPS5ICtT",
+"A4 Ancienneté ≥ 12 mois",
+"a4",
+"text",
+0
+],
+[
+"fldbD0tTZcIngffVa",
+"A4 pts",
+"a4_pts",
+"num",
+0
+],
+[
+"flduBQ8rFnoy2kz8z",
+"S1 Activité continue",
+"s1",
+"text",
+0
+],
+[
+"fldEObJRcINbQoY8J",
+"S1 pts",
+"s1_pts",
+"num",
+0
+],
+[
+"fldtjLWc1k5Qggk6m",
+"S2 Clientèle régulière",
+"s2",
+"text",
+0
+],
+[
+"fldiMfh4TXCm7J75P",
+"S2 pts",
+"s2_pts",
+"num",
+0
+],
+[
+"fldn3EK7WrDhAhMO3",
+"S3 Réapprovisionnement régulier",
+"s3",
+"text",
+0
+],
+[
+"fldb0pr8nPikCOPGQ",
+"S3 pts",
+"s3_pts",
+"num",
+0
+],
+[
+"fld1Gjl1K1GsIEVMq",
+"S4 Résistance aux chocs",
+"s4",
+"text",
+0
+],
+[
+"fldfun3HWmzL2OdCD",
+"S4 pts",
+"s4_pts",
+"num",
+0
+],
+[
+"fld9B5Uw4oQ2Mgm20",
+"Stock type de marchandises",
+"stock_type",
+"text",
+0
+],
+[
+"fldF80dpadNIgu5iT",
+"Stock valeur estimée",
+"stock_valeur",
+"num",
+0
+],
+[
+"fldxO0KdTkb6lCvYr",
+"Stock rotation",
+"stock_rotation",
+"text",
+0
+],
+[
+"fld7i5NGTt5KuNDvU",
+"Stock périssabilité",
+"stock_perissabilite",
+"text",
+0
+],
+[
+"fldTB2mMZkM0Kmm7k",
+"Stock adapté à la demande",
+"stock_adapte",
+"text",
+0
+],
+[
+"fldNAo3wRxDAJqtlw",
+"Stock appréciation",
+"stock_appreciation",
+"text",
+0
+],
+[
+"fldR2B2icrJYLlhfa",
+"Ventes journalières",
+"ventes_jour",
+"num",
+0
+],
+[
+"fldiGVR88m9rJqTj8",
+"Dépenses journalières",
+"depenses_jour",
+"num",
+0
+],
+[
+"fldiz8b7x0bKXToWx",
+"Bénéfice journalier",
+"benefice_jour",
+"num",
+0
+],
+[
+"fldmQbhJxqPM1rMbf",
+"Revenu mensuel",
+"revenu_mensuel",
+"num",
+0
+],
+[
+"fldYqI7XI9TtLqBKs",
+"Dépenses du ménage",
+"depenses_menage",
+"num",
+0
+],
+[
+"fld0TTBG89e1pm9Md",
+"Base d'analyse (revenu − ménage)",
+"base_analyse",
+"num",
+0
+],
+[
+"fldm1LbMVyVvA2v3F",
+"F1 Revenus constants pts",
+"f1_pts",
+"num",
+0
+],
+[
+"fldYbYBrwje4aaEg3",
+"F2 Marges suffisantes pts",
+"f2_pts",
+"num",
+0
+],
+[
+"fldoqEcGKyIb6JQWF",
+"F3 Dépenses maîtrisées pts",
+"f3_pts",
+"num",
+0
+],
+[
+"fldJTzWLMnanANG01",
+"F4 Capacité de remboursement pts",
+"f4_pts",
+"num",
+0
+],
+[
+"fldj8FfiTTcMF0fhG",
+"M1 Historique de crédit",
+"m1",
+"text",
+0
+],
+[
+"fldLK4ap6vaafmVTc",
+"M1 pts",
+"m1_pts",
+"num",
+0
+],
+[
+"fldmAZUrEgR8XxXnJ",
+"M2 Réputation communautaire",
+"m2",
+"text",
+0
+],
+[
+"fldc5zYki3pioO6uJ",
+"M2 pts",
+"m2_pts",
+"num",
+0
+],
+[
+"fldWme2widCvovekG",
+"M3 Respect des engagements",
+"m3",
+"text",
+0
+],
+[
+"fld3x2XHy5vlCre6K",
+"M3 pts",
+"m3_pts",
+"num",
+0
+],
+[
+"fldKyeabmuE7W6d4w",
+"Garantie type",
+"garantie_type",
+"text",
+0
+],
+[
+"fldH3BVMI46HrQFVn",
+"Garantie pts",
+"garantie_pts",
+"num",
+0
+],
+[
+"fld15QmtdeiwaUnYG",
+"Risques identifiés",
+"risques_identifies",
+"multi",
+0
+],
+[
+"fldKf9XNaeXBE6bTF",
+"Commentaire",
+"commentaire",
+"text",
+0
+],
+[
+"fldcJ88D980MsmQUX",
+"Évalué par",
+"evalue_par",
+"text",
+0
+],
+[
+"fldnQ738GgAIbKB2Y",
+"Date évaluation",
+"date_evaluation",
+"date",
+0
+],
+[
+"fldQoNnofzloMPZmV",
+"Sous-total Activité /20",
+"total_activite",
+"num",
+1
+],
+[
+"fldGXZEECJ5panTHb",
+"Sous-total Stabilité /20",
+"total_stabilite",
+"num",
+1
+],
+[
+"fldVSSR3nwFN8ULRX",
+"Sous-total Financier /25",
+"total_financier",
+"num",
+1
+],
+[
+"fldO2HGeqS6GFk39Q",
+"Sous-total Moralité /20",
+"total_moralite",
+"num",
+1
+],
+[
+"fldCPV8kfkZF41cgX",
+"SCORE TOTAL /100",
+"score_total",
+"num",
+1
+],
+[
+"fldwcGKpqQtzT0NvB",
+"Décision selon le score",
+"decision_selon_score",
+"text",
+1
+],
+[
+"fldpqN5J2gOpdcg8G",
+"A1 justificatif",
+"a1_justif",
+"text",
+0
+],
+[
+"fld0qOkRNDnLeyofZ",
+"A2 justificatif",
+"a2_justif",
+"text",
+0
+],
+[
+"fldjCbDCd5Ln5oyws",
+"A3 justificatif",
+"a3_justif",
+"text",
+0
+],
+[
+"fldGu63tUGrIzikGc",
+"A4 justificatif",
+"a4_justif",
+"text",
+0
+],
+[
+"fldyOreNxmafd2Z4m",
+"S1 justificatif",
+"s1_justif",
+"text",
+0
+],
+[
+"fldmFCiBcQVaOPMbn",
+"S2 justificatif",
+"s2_justif",
+"text",
+0
+],
+[
+"fld8eCmZ3xIylJY54",
+"S3 justificatif",
+"s3_justif",
+"text",
+0
+],
+[
+"fldLFA2N7J2Ce7xh1",
+"S4 justificatif",
+"s4_justif",
+"text",
+0
+],
+[
+"fldVAuFXuxwNspDNv",
+"F1 justificatif",
+"f1_justif",
+"text",
+0
+],
+[
+"fldLFMWJ9zgL0cywl",
+"F2 justificatif",
+"f2_justif",
+"text",
+0
+],
+[
+"fldAqviWHgvLTaM80",
+"F3 justificatif",
+"f3_justif",
+"text",
+0
+],
+[
+"fld0mSiNqlqjZQK9m",
+"F4 justificatif",
+"f4_justif",
+"text",
+0
+],
+[
+"fld3Ra744wy06SOJB",
+"M1 justificatif",
+"m1_justif",
+"text",
+0
+],
+[
+"fldkhyTV8NiNYYzXP",
+"M2 justificatif",
+"m2_justif",
+"text",
+0
+],
+[
+"fld4MergPAp7vWirp",
+"M3 justificatif",
+"m3_justif",
+"text",
+0
+],
+[
+"fldJzVsnuHnFSNCu6",
+"Garantie justificatif",
+"garantie_justif",
+"text",
+0
+],
+[
+"fld0KRivXbMdxwHup",
+"Stock justificatif",
+"stock_justif",
+"text",
+0
+],
+[
+"fldgWRGgjQTfvjtQS",
+"Risques justificatif",
+"risques_justif",
+"text",
+0
+],
+[
+"fldNEZujntK3kPDQ8",
+"Taux capacité de remboursement (%)",
+"taux_capacite",
+"num",
+0
+],
+[
+"fldg4qcZ1HOTgTqPb",
+"Capacité mensuelle de remboursement",
+"capacite_mensuelle",
+"num",
+1
+],
+[
+"fld01Bbx0R3512gkH",
+"Montant recommandé",
+"montant_recommande",
+"num",
+0
+],
+[
+"fldCkXAOsqiB21VS2",
+"Durée recommandée (mois)",
+"duree_recommandee",
+"num",
+0
+],
+[
+"fldxOPuH8NKqA9ILV",
+"Modalité",
+"modalite",
+"text",
+0
+],
+[
+"fldKTaKi36SZniIkx",
+"Modalité précision",
+"modalite_precision",
+"text",
+0
+],
+[
+"fldaSiqOoWGrccs8v",
+"Avis AM - activité",
+"avis_am",
+"text",
+0
+],
+[
+"fldGchWCJHeFUwYxO",
+"Avis AM justificatif",
+"avis_am_justif",
+"text",
+0
+],
+[
+"fldxxWyF74wlHOuTX",
+"Décision AM (grille)",
+"decision_am_grille",
+"text",
+0
+],
+[
+"flduO8gBaqrcHQxPL",
+"Décision AM justificatif",
+"decision_am_justif",
+"text",
+0
+],
+[
+"fldi4OS8Shzcb22MS",
+"Capacité quotidienne de remboursement",
+"capacite_jour",
+"num",
+1
+]
+]
+},
+"tblk1FwcKewxxlsNT": {
+"name": "Risques Crédit",
+"read": "risques",
+"write": "risques",
+"fields": [
+[
+"fldbhR4JTJkC7bxKq",
+"Numero Dossier",
+"numero_dossier",
+"text",
+0
+],
+[
+"flduFxxhmi2Hqr979",
+"Dossier",
+"id_formulaire",
+"link",
+0
+],
+[
+"fldvfs0kuoXMWj06N",
+"Risques identifiés",
+"risques_identifies",
+"multi",
+0
+],
+[
+"fldokinoJtl5SWmzX",
+"R1 Incapacité - Explication",
+"r1_explication",
+"text",
+0
+],
+[
+"fldlzE29uO9We1cuv",
+"R1 Incapacité - Plan de gestion",
+"r1_plan",
+"text",
+0
+],
+[
+"fld9BaMbqIpMOlLNu",
+"R2 Géographique - Explication",
+"r2_explication",
+"text",
+0
+],
+[
+"fldgCUIi9RM40Ilyc",
+"R2 Géographique - Plan de gestion",
+"r2_plan",
+"text",
+0
+],
+[
+"fldP7C8SFwgMl4pVQ",
+"R3 Saisonnalité - Explication",
+"r3_explication",
+"text",
+0
+],
+[
+"fldqVoLgv5VYpFcMn",
+"R3 Saisonnalité - Plan de gestion",
+"r3_plan",
+"text",
+0
+],
+[
+"fldgJ6EfUrgSVDCpD",
+"R4 Surendettement - Explication",
+"r4_explication",
+"text",
+0
+],
+[
+"fldskS8S9D9f4UxKm",
+"R4 Surendettement - Plan de gestion",
+"r4_plan",
+"text",
+0
+],
+[
+"fldWLn6XlJAnyU6xc",
+"R5 Utilisation - Explication",
+"r5_explication",
+"text",
+0
+],
+[
+"fldr4HpcOrhWQP6Fx",
+"R5 Utilisation - Plan de gestion",
+"r5_plan",
+"text",
+0
+],
+[
+"fldQdmNJutTRjuQW0",
+"R6 Incohérence - Explication",
+"r6_explication",
+"text",
+0
+],
+[
+"fldvgfaQR4UqtKi7c",
+"R6 Incohérence - Plan de gestion",
+"r6_plan",
+"text",
+0
+],
+[
+"fldstJMoaApgqdXrA",
+"R7 Autres - Précision",
+"r7_precision",
+"text",
+0
+],
+[
+"fldnemToKFgd8YPoG",
+"R7 Autres - Explication",
+"r7_explication",
+"text",
+0
+],
+[
+"flds1BdLRZrJNk5XE",
+"R7 Autres - Plan de gestion",
+"r7_plan",
+"text",
+0
+],
+[
+"fldn6rY487gCs7hy8",
+"Niveau de risque global",
+"niveau_global",
+"text",
+0
+],
+[
+"fldvmKzarZq9LwVGY",
+"Synthèse / recommandation",
+"synthese",
+"text",
+0
+],
+[
+"fldLGik3WGHofHBkE",
+"Évalué par",
+"evalue_par",
+"text",
+0
+],
+[
+"fldiKuzwxWw4I17Mq",
+"Date évaluation",
+"date_evaluation",
+"date",
+0
+],
+[
+"fldOvMGoLjXxHio5P",
+"R8 Moyens de contact - Explication",
+"r8_explication",
+"text",
+0
+],
+[
+"fldwKGzN5HVpkBSaX",
+"R8 Moyens de contact - Plan de gestion",
+"r8_plan",
+"text",
+0
+],
+[
+"fldIlmTaDwWDhlZJO",
+"R8 Moyens de contact - Concerne",
+"r8_concerne",
+"multi",
+0
+]
+]
+},
+"tblAq8ePKGohxfz6L": {
+"name": "Rapports Clôture",
+"read": "rapports_cloture",
+"write": "rapports_cloture",
+"fields": [
+[
+"fldJBa40rulOLuXm8",
+"ID Rapport",
+"id_rapport",
+"text",
+0
+],
+[
+"fldJDLvCBZqWTwjvm",
+"N°",
+"numero",
+"num",
+1
+],
+[
+"fldUe5DIC6Ea8jSSq",
+"Dossier",
+"id_formulaire",
+"link",
+0
+],
+[
+"fld1hgArqPCx3RjwQ",
+"Numero Dossier",
+"numero_dossier",
+"text",
+0
+],
+[
+"fldH8KvS73mccujgY",
+"Client",
+"client",
+"text",
+0
+],
+[
+"fldw2drOX55tzOWCW",
+"N° Compte Epargne",
+"numero_epargne",
+"text",
+0
+],
+[
+"fldYPzwMvmz5acXou",
+"Agent recouvrement",
+"agent_recouvrement",
+"text",
+0
+],
+[
+"fldTHIVN6Qn4O22QY",
+"Statut",
+"statut",
+"text",
+0
+],
+[
+"fldTPUpTaiuk8DliN",
+"Date création",
+"date_creation",
+"date",
+0
+],
+[
+"fld2ukE7WcRT0Nh3F",
+"Créé par",
+"cree_par",
+"text",
+0
+],
+[
+"fldVIbosBcIkoBmmN",
+"Date limite",
+"date_limite",
+"date",
+0
+],
+[
+"fldR6nqGAugksrLVS",
+"ID Credit précédent",
+"id_credit_precedent",
+"text",
+0
+],
+[
+"fldC9waGuvkViEqLw",
+"Montant prêt",
+"montant_pret",
+"num",
+0
+],
+[
+"fldW0Cgt48PBcXS1r",
+"Montant total à rembourser",
+"montant_total",
+"num",
+0
+],
+[
+"fldNM50OBYLOA4LOM",
+"Montant remboursé",
+"montant_rembourse",
+"num",
+0
+],
+[
+"fldnpGbB6ykVMlDSM",
+"Solde restant",
+"solde_restant",
+"num",
+0
+],
+[
+"fldLLHOQOoIpWP675",
+"Date début crédit",
+"date_debut_credit",
+"date",
+0
+],
+[
+"fldnegvUnCSWeM0hp",
+"Date fin crédit",
+"date_fin_credit",
+"date",
+0
+],
+[
+"fldqlACbyAFLxApgN",
+"Date dernier versement",
+"date_dernier_versement",
+"date",
+0
+],
+[
+"fldzOsM56v7xZrXEk",
+"Statut créances",
+"statut_creances",
+"text",
+0
+],
+[
+"fldKJjeOtGyqy0VAf",
+"Nombre de retards",
+"nombre_retards",
+"num",
+0
+],
+[
+"fldcnsHCXmTD40x19",
+"Comportement de paiement",
+"comportement_paiement",
+"text",
+0
+],
+[
+"fldzRb94yNQcsiIkA",
+"Observations agent",
+"observations_agent",
+"text",
+0
+],
+[
+"fldAc60mnlxIM6nv9",
+"Recommandation agent",
+"recommandation_agent",
+"text",
+0
+],
+[
+"fld02OmctQXeFQHyV",
+"Attestation remboursement complet",
+"attestation_remboursement",
+"bool",
+0
+],
+[
+"fldMMI80npg5SSr60",
+"Date attestation",
+"date_attestation",
+"date",
+0
+],
+[
+"fldOXWjQxA5yRZPJA",
+"Attesté par",
+"atteste_par",
+"text",
+0
+],
+[
+"fld94Id1l6vTPb3y8",
+"Rempli le",
+"rempli_le",
+"date",
+0
+],
+[
+"fldqoVgaoxpyw4wNc",
+"Vérification AM",
+"verification_am",
+"text",
+0
+],
+[
+"fldoRpFokvo6vEMv2",
+"Observation AM",
+"observation_am",
+"text",
+0
+],
+[
+"fld068iDt6xhOPwB3",
+"Vérifié par",
+"verifie_par",
+"text",
+0
+],
+[
+"fldYPu0iCn4jjkHRe",
+"Date vérification",
+"date_verification",
+"date",
+0
+],
+[
+"fldeRIzJkjEu4nyD7",
+"Données rapport",
+"donnees_rapport",
+"text",
+0
+],
+[
+"fldy3WaOQqrOeO4wU",
+"Score historique",
+"score_historique",
+"num",
+0
+],
+[
+"fldSjiWPxaw5lq9yI",
+"Mode de clôture",
+"mode_cloture",
+"text",
+0
+],
+[
+"fldYsylRtIGX5ljrO",
+"Recommandation renouvellement",
+"recommandation_renouvellement",
+"text",
+0
+],
+[
+"fldB5xd2XtiX6yLXO",
+"Vérifié par (AM)",
+"verifie_par_am",
+"text",
+0
+],
+[
+"fldFdH0aSOUSD2l1z",
+"Date vérification AM",
+"date_verification_am",
+"date",
+0
+],
+[
+"fldjM603rlQnyPgDM",
+"Observation Manager",
+"observation_manager",
+"text",
+0
+],
+[
+"fld4BoayBsxHqoAXt",
+"Modèle de rapport",
+"modele_rapport",
+"text",
+0
+]
+]
+},
+"tblOzcArf5qk17aok": {
+"name": "Paramètres Suivi",
+"read": "parametres",
+"write": "parametres",
+"fields": [
+[
+"fldGdhk4jETO9nOR1",
+"Clé",
+"cle",
+"text",
+0
+],
+[
+"fld4MDgZjipwKWvb0",
+"Valeur",
+"valeur",
+"text",
+0
+],
+[
+"fldwui2NQvijfWPaq",
+"Modifié par",
+"modifie_par",
+"text",
+0
+]
+]
+},
+"tblXy4bz6MaCuddWe": {
+"name": "Dossier Client",
+"read": "v_dossiers_clients",
+"write": "dossiers_clients",
+"fields": [
+[
+"fldHfQSaF7yN0cGoP",
+"Compte Credit",
+"credits",
+"link",
+1
+],
+[
+"fldQq1EcVy0ISXrtR",
+"Nom Complet | Formulaire",
+"nom_formulaire",
+"text",
+0
+],
+[
+"fldDsk16aCFA3XJNN",
+"Formulaire Credit",
+"formulaires",
+"link",
+1
+],
+[
+"fldhRhUdMk63Ld4wM",
+"Zone | Formulaire",
+"zone_formulaire",
+"text",
+0
+],
+[
+"fldke2A3EK7nMGOC8",
+"Nom Definitif",
+"nom",
+"text",
+1
+],
+[
+"fldMJeYoiKIf9Sv6M",
+"Zone Definitve",
+"zone",
+"text",
+1
+],
+[
+"fldAZqYjyrXJAEnxe",
+"Lieu de travail (Formulaire)",
+"lieu_formulaire",
+"text",
+0
+],
+[
+"fld0ETNlWq72Jkdv5",
+"Lieu de travail Def",
+"lieu_travail",
+"text",
+1
+],
+[
+"fld9xitV5eKO8LZ77",
+"Clé Client",
+"cle_client",
+"text",
+1
+],
+[
+"fldTiJ1I25ur4iznX",
+"N° DS",
+"num_ds",
+"text",
+1
+],
+[
+"fld3wfOkdXbbCmGVm",
+"Statut Dossier",
+"statut_dossier",
+"text",
+1
+]
+]
+},
+"tblsYfHc8ZUW42DLy": {
+"name": "Contrat Credit",
+"read": "contrats",
+"write": "contrats",
+"fields": [
+[
+"fldWUMMgSW7Cp8lo1",
+"Numéro du crédit",
+"numero_credit",
+"text",
+1
+],
+[
+"fldYcST0YJpbK29Ov",
+"Piece Identification",
+"piece_identification",
+"text",
+0
+],
+[
+"fldQMMFBzoV6IkVD0",
+"Numero Identification",
+"numero_identification",
+"num",
+0
+],
+[
+"fld40C7MrqHtYNskc",
+"Date Naissance",
+"date_naissance",
+"date",
+0
+],
+[
+"fldbv01wTx8NRkeJa",
+"Sexe",
+"sexe",
+"text",
+0
+],
+[
+"fldHVTqrhzYbLC5SQ",
+"Adresse",
+"adresse",
+"text",
+0
+],
+[
+"fldeqPiFDvpvYe8bn",
+"Numéro de téléphone",
+"telephone",
+"text",
+0
+],
+[
+"fldKsNKcX1cNEcMeg",
+"Numéro de compte épargne",
+"numero_epargne",
+"text",
+0
+],
+[
+"fldXIXjmFx7eC3gi5",
+"Montant du crédit - en chiffres",
+"montant",
+"num",
+0
+],
+[
+"fldI3roRn6uEXpf4u",
+"Montant du crédit - en lettres",
+"montant_lettres",
+"text",
+0
+],
+[
+"fldJlitnSXa4ICpLk",
+"Durée du crédit",
+"duree_mois",
+"num",
+0
+],
+[
+"fldlt3gZhqc0FgCa0",
+"Date de début du crédit",
+"date_debut",
+"date",
+0
+],
+[
+"fldWrq0qJ2VQguz5o",
+"Date d'échéance du crédit",
+"date_echeance",
+"date",
+0
+],
+[
+"fldVoh1KWmJNfBRSH",
+"Modalités de remboursement",
+"modalites",
+"text",
+0
+],
+[
+"fldFdr2K16PAkLmNo",
+"Objet du crédit",
+"objet",
+"text",
+0
+],
+[
+"fldRfogUBEmA2aUSK",
+"Montant final du crédit",
+"montant_final",
+"num",
+0
+],
+[
+"fldzI00vYZvctk4Nq",
+"Fonds de garantie",
+"fonds_garantie",
+"num",
+0
+],
+[
+"fldYhBgoMzWRlLWQG",
+"Frais et pénalités",
+"penalites",
+"num",
+0
+],
+[
+"flde3vHeH4OW5nyNL",
+"Nom complet du témoin",
+"temoin_nom",
+"text",
+0
+],
+[
+"fldZ5UMzqcQdNEjfz",
+"Piece d'identification du témoin",
+"temoin_piece",
+"text",
+0
+],
+[
+"fld7lgFtCM66Ej27l",
+"Numéro d'identification du témoin",
+"temoin_numero",
+"text",
+0
+],
+[
+"fldJFpsAcaPxFejdU",
+"Adresse du témoin",
+"temoin_adresse",
+"text",
+0
+],
+[
+"fldZre4xEXEPkVpAq",
+"Nombre de jour de congé",
+"jours_conge",
+"text",
+0
+],
+[
+"fld7YqTnFxzWhuZ6B",
+"Agent Crédit",
+"agent_credit",
+"text",
+0
+],
+[
+"fldYIutEmX7NhGgdT",
+"Numéro de Formulaire",
+"numero_formulaire",
+"text",
+0
+],
+[
+"fldNw4fiu8pBH7Bve",
+"Liaison Forms",
+"id_formulaire",
+"link",
+0
+],
+[
+"fldrlx1NqG906pjMT",
+"Agent Epargne",
+"agent_epargne",
+"text",
+0
+],
+[
+"fldyaMurCVsvxSkwm",
+"Frais Dossier",
+"frais_dossier",
+"num",
+0
+],
+[
+"fldkbckGOUk5LLAbk",
+"Type Credit",
+"type_credit",
+"text",
+0
+],
+[
+"fldh7LmuXzFwCTuw3",
+"Paiement par jour",
+"paiement_jour",
+"num",
+0
+],
+[
+"fldiML6t31wXNhMRR",
+"Taux interet",
+"taux_interet",
+"num",
+0
+],
+[
+"fldSmH8x1x7KFr93y",
+"Nom du client",
+"nom_client",
+"text",
+0
+],
+[
+"fldreY9Nt9dnyhGGV",
+"Prenom du client",
+"prenom_client",
+"text",
+0
+],
+[
+"fldUdHgwrwita6aWO",
+"Compte Epargne",
+"id_compte_epargne",
+"link",
+0
+],
+[
+"fldxkgiP67pafPQgR",
+"Dossier Client",
+"id_dossier_client",
+"link",
+0
+],
+[
+"fldDxJ61WnlIWZGRh",
+"Numero Dossier Client",
+"numero_dossier_client",
+"text",
+0
+],
+[
+"fldBljgRjVGW9rukr",
+"Suivi Remboursement",
+"suivi_remboursement",
+"text",
+0
+]
+]
+},
+"tblLglKu4OyEAg4t0": {
+"name": "Compte Credit",
+"read": "ext_comptes_credit",
+"write": null,
+"fields": [
+[
+"fldeRXcaW3Pkozpb5",
+"ID Credit",
+"id_credit",
+"text",
+1
+],
+[
+"flddQjJwHIIoF0QwE",
+"Nom Complet",
+"nom_complet",
+"text",
+1
+],
+[
+"fldrtHIG8iIiOWbUR",
+"Timestamp",
+"created_at",
+"dt",
+1
+],
+[
+"fld4ZfNXUBJANPsaa",
+"Adresse entreprise",
+"adresse_entreprise",
+"text",
+1
+],
+[
+"flddkxYWdMwy1z9zC",
+"Numero compte epargne",
+"numero_epargne",
+"text",
+1
+],
+[
+"fldY3lTK5Z077XtOH",
+"Type Crédit",
+"type_credit",
+"text",
+1
+],
+[
+"fld22flvFK7IBa2kV",
+"Montant pret",
+"montant_pret",
+"num",
+1
+],
+[
+"fld1GoM740mISYIjC",
+"Taux d'interet",
+"taux_interet",
+"num",
+1
+],
+[
+"fld2O2E4wTvpW3o2d",
+"Duree du credit (mois)",
+"duree_credit_mois",
+"num",
+1
+],
+[
+"fldAINxhkZJbvl7Hh",
+"Paiement par jour",
+"paiement_journalier",
+"num",
+1
+],
+[
+"fldUyHdvSJiVsLSfK",
+"Montant Final",
+"montant_final",
+"num",
+1
+],
+[
+"fldkAFUMxbhEY6Ozc",
+"Nbre de versement",
+"nb_versements",
+"num",
+1
+],
+[
+"fldXLcWyk5ShyK53O",
+"Restant",
+"restant",
+"num",
+1
+],
+[
+"fldPHELLw55PdZffM",
+"Date de debut",
+"date_debut",
+"date",
+1
+],
+[
+"fld1AzqxYWMRxmD9M",
+"Date de fin",
+"date_fin",
+"date",
+1
+],
+[
+"fld8YoewJILQVJGcg",
+"Dernier Versement",
+"dernier_versement",
+"date",
+1
+],
+[
+"fldeXdFGRMgiSCIGd",
+"Remboursement Definitif",
+"remboursement",
+"num",
+1
+],
+[
+"fldlSy6K6g7Qrnryp",
+"Versement Definitif",
+"remboursement",
+"num",
+1
+],
+[
+"fldcG0V0ikqIvhIPX",
+"Dossier Client",
+"dossiers_clients",
+"link",
+1
+],
+[
+"fldINks342n3jtaDi",
+"Statut creances",
+"statut_creances",
+"text",
+1
+]
+]
+},
+"tblyFXV5zkeBd7joJ": {
+"name": "Compte Epargne",
+"read": "ext_comptes_epargne",
+"write": null,
+"fields": [
+[
+"_ce_num",
+"N° Compte",
+"no_compte",
+"text",
+1
+],
+[
+"_ce_nom",
+"Nom Complet",
+"nom_complet",
+"text",
+1
+]
+]
+}
+}
